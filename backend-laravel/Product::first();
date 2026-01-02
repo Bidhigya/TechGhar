@@ -1,0 +1,17 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6546
+    [34mall[39m: [
+      [34;4mApp\Models\OrderItem[39;24m {#6107
+        [34mid[39m: [35m1[39m,
+        [34mproduct_id[39m: [35m1[39m,
+        [34morder_id[39m: [35m2[39m,
+        [34mname[39m: "[32mMi Notebook Air 13[39m",
+        [34mport[39m: "[32mWhite[39m",
+        [34mprice[39m: [33m1200.0[39m,
+        [34munit_price[39m: [33m1200.0[39m,
+        [34mqty[39m: [35m1[39m,
+        [34mcreated_at[39m: "[32m2025-10-28 15:26:45[39m",
+        [34mupdated_at[39m: "[32m2025-10-28 15:26:45[39m",
+      },
+    ],
+  }
+
